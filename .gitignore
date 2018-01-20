@@ -104,4 +104,4 @@ ENV/
 .vscode/
 
 #jupyter notebook results
-*.ipynb
+#*.ipynb

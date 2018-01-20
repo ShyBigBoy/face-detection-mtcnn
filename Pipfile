@@ -1,0 +1,28 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+tensorflow = "*"
+scipy = "*"
+scikit-learn = "*"
+opencv-python = "*"
+"h5py" = "*"
+matplotlib = "*"
+pillow = "*"
+requests = "*"
+psutil = "*"
+jupyter = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.5"
