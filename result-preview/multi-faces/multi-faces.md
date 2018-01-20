@@ -61,7 +61,7 @@
     
 
 
-![png](output_0_4.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_4.png)
 
 
     [1756 1706 1880 1869]
@@ -69,7 +69,7 @@
     
 
 
-![png](output_0_6.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_6.png)
 
 
     [4103 1782 4231 1929]
@@ -77,7 +77,7 @@
     
 
 
-![png](output_0_8.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_8.png)
 
 
     [3124 1780 3242 1934]
@@ -85,7 +85,7 @@
     
 
 
-![png](output_0_10.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_10.png)
 
 
     [2876 1582 2985 1715]
@@ -93,7 +93,7 @@
     
 
 
-![png](output_0_12.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_12.png)
 
 
     [3518 1609 3622 1730]
@@ -101,7 +101,7 @@
     
 
 
-![png](output_0_14.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_14.png)
 
 
     [1107 1567 1211 1698]
@@ -109,7 +109,7 @@
     
 
 
-![png](output_0_16.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_16.png)
 
 
     [2843 1733 2963 1883]
@@ -117,7 +117,7 @@
     
 
 
-![png](output_0_18.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_18.png)
 
 
     [1394 1717 1525 1877]
@@ -125,7 +125,7 @@
     
 
 
-![png](output_0_20.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_20.png)
 
 
     [3810 1582 3922 1725]
@@ -133,7 +133,7 @@
     
 
 
-![png](output_0_22.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_22.png)
 
 
     [ 776 1595  884 1723]
@@ -141,7 +141,7 @@
     
 
 
-![png](output_0_24.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_24.png)
 
 
     [3232 1599 3329 1733]
@@ -149,7 +149,7 @@
     
 
 
-![png](output_0_26.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_26.png)
 
 
     [1057 1696 1185 1859]
@@ -157,7 +157,7 @@
     
 
 
-![png](output_0_28.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_28.png)
 
 
     [4045 1593 4157 1730]
@@ -165,7 +165,7 @@
     
 
 
-![png](output_0_30.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_30.png)
 
 
     [3437 1780 3561 1931]
@@ -173,7 +173,7 @@
     
 
 
-![png](output_0_32.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_32.png)
 
 
     [2482 1624 2609 1782]
@@ -181,7 +181,7 @@
     
 
 
-![png](output_0_34.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_34.png)
 
 
     [2102 1700 2239 1880]
@@ -189,7 +189,7 @@
     
 
 
-![png](output_0_36.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_36.png)
 
 
     [2630 1617 2728 1744]
@@ -197,7 +197,7 @@
     
 
 
-![png](output_0_38.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_38.png)
 
 
     [1440 1597 1553 1727]
@@ -205,7 +205,7 @@
     
 
 
-![png](output_0_40.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_40.png)
 
 
     [2061 1575 2165 1709]
@@ -213,7 +213,7 @@
     
 
 
-![png](output_0_42.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_42.png)
 
 
     [2354 1596 2443 1711]
@@ -221,7 +221,7 @@
     
 
 
-![png](output_0_44.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_44.png)
 
 
     [ 665 1701  818 1899]
@@ -229,7 +229,7 @@
     
 
 
-![png](output_0_46.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_46.png)
 
 
     [ 420 1902  459 1947]
@@ -237,7 +237,7 @@
     
 
 
-![png](output_0_48.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_48.png)
 
 
     [ 330 1810  357 1840]
@@ -245,7 +245,7 @@
     
 
 
-![png](output_0_50.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_50.png)
 
 
     [4542 1810 4557 1828]
@@ -253,7 +253,7 @@
     
 
 
-![png](output_0_52.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_52.png)
 
 
     [3817 3017 3837 3043]
@@ -261,9 +261,9 @@
     
 
 
-![png](output_0_54.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_54.png)
 
 
 
-![png](output_0_55.png)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/output_0_55.png)
 
