@@ -1,4 +1,3 @@
-```
     Populating the interactive namespace from numpy and matplotlib
     Creating networks and loading parameters
     
