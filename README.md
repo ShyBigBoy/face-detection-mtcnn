@@ -6,6 +6,7 @@ A Python/Tensorflow implementation of the face detection based on MTCNN.
 * Python 3.5
 * Ubuntu 16.04 / Windows 10
 * pipenv 9
+* Jupyter Notebook
 
 ## How to run
 * [readme](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/readme2.md)
