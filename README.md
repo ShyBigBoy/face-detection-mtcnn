@@ -11,7 +11,8 @@ A Python/Tensorflow implementation of the face detection based on MTCNN.
 * [readme](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/readme2.md)
 
 ## Result
-* [multi-faces](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/multi-faces.md)
+![png](https://github.com/ShyBigBoy/face-detection-mtcnn/raw/master/result-preview/multi-faces/output_0_55.png)
+* [Here is the detailed result](https://github.com/ShyBigBoy/face-detection-mtcnn/blob/master/result-preview/multi-faces/multi-faces.md)
 
 ## References
 1. [基于MTCNN/TensorFlow实现人脸检测](http://blog.csdn.net/mr_evanchen/article/details/77650883)
