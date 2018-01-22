@@ -17,6 +17,7 @@ pillow = "*"
 requests = "*"
 psutil = "*"
 jupyter = "*"
+pexpect = "*"
 
 
 [dev-packages]
